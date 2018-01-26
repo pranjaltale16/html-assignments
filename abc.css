@@ -169,16 +169,13 @@ a{
 body{
 	
 
-padding: 0;
-margin: 0;
-background: url("background.jpg") fixed no-repeat;
-background-size:cover;
-
+    padding: 0;
+    margin: 0;
+    background: url("background.jpg") fixed no-repeat;
+    background-size:cover;
 }
 
 #skills{
-
-
 
 	height:100vh;
 	display: flex;
@@ -202,7 +199,6 @@ background-size:cover;
 		font-size: 1em;
 		height: 100vh;
 		 
-
 }
 .abcd{
 
@@ -236,126 +232,122 @@ background-size:cover;
 
 
 #contact1{
-height: 10vw;
-display: flex;
-flex-wrap: wrap;
-align-content: center;
-justify-content: center;
-flex-direction: row;
+        height: 10vw;
+        display: flex;
+        flex-wrap: wrap;
+        align-content: center;
+        justify-content: center;
+        flex-direction: row;
 
 }
 
 
 .socialpics{
 
-height: 10vh;
-width:7vw;
-padding-left: 5vw;
-padding-right: 5vw;
-
+        height: 10vh;
+        width:7vw;
+        padding-left: 5vw;
+        padding-right: 5vw;
 }
 #gmail{
 
-	text-align: center;
-	font-weight: 900;
+    	text-align: center;
+	   font-weight: 900;
 }
 
 #contact3{
             
             height: 30vh;
-            
-display: flex;
-flex-wrap: wrap;
-align-content: center;
-justify-content: center;
-flex-direction: row;
+            display: flex;
+            flex-wrap: wrap;
+            align-content: center;
+            justify-content: center;
+            flex-direction: row;
         }
-        #contact2{
+#contact2{
             height: 40vh;
             width: 30vw;
             background-color: grey;
             border-radius: 20%;
             display: flex;
-flex-wrap: wrap;
-align-items: center;
-justify-content: center;
-flex-direction: row;
-font-size: 3vh;
+            flex-wrap: wrap;
+            align-items: center;
+            justify-content: center;
+            flex-direction: row;
+            font-size: 3vh;
         }
 
+#contact{
+            display: flex;
+              align-items: center;
+            justify-content: center;
+            flex-direction: row;
+            flex-wrap: wrap;
+            height: 130vh;
+        }
+        
+#contactdiv1{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        margin-right: 10vw;
+            }
 
-        #contact{
- display: flex;
-  align-items: center;
-justify-content: center;
-flex-direction: row;
-flex-wrap: wrap;
-height: 130vh;
-
+#contactdiv2{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        width: 30vw;
 
         }
-        #contactdiv1{
-display: flex;
-  align-items: center;
-justify-content: center;
-flex-direction: column;
-
-margin-right: 10vw;
-
-
-        }
-
-        #contactdiv2{
-display: flex;
-  align-items: center;
-justify-content: center;
-flex-direction: column;
-width: 30vw;
-
-        }
-        h3{
+h3{
 
         	text-align: center;
                 padding-top:5vh;
                 font-size:3vh;
-        }
-        h1{
-        	text-align: center;
-        }
-        .div11{
+ }
+  h1{
+        text-align: center;
+    }
+        
+.div11{
 
         	height: 30vh;
         	background-color: rgba(180,180,180,.5);
         	border-radius: 10%;
         	width:30vw;
-
-        }
-        .div22{
+    }
+        
+.div22{
                height:60vh;
-        	width:100%;
-        	background-color: rgba(180,180,180,.5);
-        	border-radius: 10%;
-        	display: flex;
-  align-items: center;
-justify-content: center;
-font-family: "Times New Roman", Times, serif;
-font-style: italic;
-font-size: 2em;
-text-align: center;
-flex-direction: column;
+               	width:100%;
+            	background-color: rgba(180,180,180,.5);
+        	   border-radius: 10%;
+        	   display: flex;
+                align-items: center;
+                justify-content: center;
+                font-family: "Times New Roman", Times, serif;
+                font-style: italic;
+                font-size: 2em;
+                text-align: center;
+                flex-direction: column;
         }
-        .        #contact0{
+        .       
+         #contact0{
         	
 
         }
-        span{
+span{
         	
-        }
-        .input{
+   }
+        
+.input{
         	border:2px solid grey;
         	width: 20vw;
-                border-radius:2%;
-        }
+            border-radius:2%;
+    }
 
 
 @media only screen and (max-width: 900px)
@@ -371,104 +363,70 @@ flex-direction: column;
      .abcd{ flex-direction: column; }
 
 
-   		#b1{
-  	  font-size:5vw;
-   	}
-   
-		#div1{  font-size:2.5vh; padding-left:7vw; }
-
-
-
-
-		.div22{
-
-    	font-size:1em;
-    	width: 60vw;
-        height:50vh;
-
-    		}
+   	#b1{    font-size:5vw;}
+    #div1{  font-size:2.5vh; padding-left:7vw; }
+    .div22{
+            font-size:1em;
+    	   width: 60vw;
+            height:50vh;}
    
    	.div11{
 		font-size:1em;
-    	width: 60vw;
-
-  	 }
+    	width: 60vw;   }
 
 
 	#contact{
-	flex-direction: column;
-	flex-wrap: nowrap;
-
-      	  }
+	       flex-direction: column;
+	       flex-wrap: nowrap; }
 
 
 	#contactdiv1{
-	display: flex;
-  	align-items: center;
-	justify-content: center;
-	flex-direction: column;
-
-	margin: 0;
-
-
-        }
-
-
+	       display: flex;
+  	         align-items: center;
+	       justify-content: center;
+	       flex-direction: column;
+            margin: 0;
+                }
+    .a{  flex-direction: column; }
         
-	.a{
-
-	flex-direction: column;
-
-
-	}
-        
-
-
-        .input{
-        	
-        	width: 40vw;
-        }
+    .input{  width: 40vw; }
 
         
         #b1{   }
         
-	.tr{ font-size:2vh;
-      		}
+	.tr{ font-size:2vh; }
 
 
  }
 
 
-        .a1{
-           padding: 1vw;
-        }
+.a1{ padding: 1vw; }
 
-
-        .a{
+.a{
 
           padding-top:4vh;
-display: flex;
-  align-items: center;
-justify-content: center;
-flex-direction: row;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: row;
 }
 
 #b1{
-    font-size:9vh;
-	color:black;
+        font-size:9vh;
+	   color:black;
 }
 
 
 #pic2{
-font-size:8vh; color: black;
+        font-size:8vh; color: black;
 	
 }
 #pic1{
 
-	font-size:8vh; color: #0000FF; 
+	       font-size:8vh; color: #0000FF; 
 }
 #pic3{
-font-size:8vh; color: black; 
+            font-size:8vh; color: black; 
 }
 
 }
