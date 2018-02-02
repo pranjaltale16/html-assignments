@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Get to know Aman!</title>
+	<link rel="stylesheet" href="styles.css" />
+</head>
+<body>	
+	
+
+	<a name="aboutsection"></a>
+	<div class="contain">
+		<div id="header">
+			<a href="#aboutsection" class="button">About</a>
+			<a href="#skillsection" class="button">Skills & Interest</a>
+			<a href="#contactsection" class="button">Contact Me</a>
+		</div>
+		<div id="intro">	
+				<div id="img"></div>
+				<div><h1>Aman Sharma welcomes you!<br />Scroll Down to know more about him.</h1></div>
+		</div>	
+		<span><em>-Made with <img src="heart.png" height="30"> by Aman.</em></span>
+	</div>
+	
+	<br />
+
+	<div class="contain">
+		<a name="skillsection"></a>
+		<div id="skill">
+			<h1 class="head">Skills & Interests</h1>
+			<p><em>Here are few of my skills and interests.</em></p>
+			<div id="skillbox">
+				
+				<div id="box1" class="skillcontain">
+					<ul>
+						<li>HTML</li>	
+						<li>CSS</li>
+						<li>JavaScript</li>
+						<li>Bootstrap</li>
+						<li>jQuery</li>
+						<li>MySQL</li>
+					</ul>
+				</div>
+				<div id="box2" class="skillcontain">
+					<ul>
+						<li>Movies</li>
+						<li>TV Shows</li>
+						<li>Badminton</li>
+						<li>Football</li>
+						<li>Music</li>
+						<li>Playing Harmonica</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<br />
+
+	<a name="contactsection"></a>
+	<div class="contain">
+		
+		<div id="contact">
+			<h1 class="head">Contact Me</h1>
+			<p><em>Can't resist to know more about me?</em></p>
+			<div id="contactinfo">
+				<div id="network">
+					<div id="networkbox1" class="networkcontain">
+						
+							<a href="https://www.facebook.com/aman.sharma.1238292" target="_blank"><img src="fb.png" height="80"></a>
+							<a href="https://www.instagram.com/aman.sharma420/" target="_blank"><img src="insta.png" height="80"></a>
+						
+					</div>
+					<div id="networkbox2" class="networkcontain">
+						
+							<a href="https://github.com/algomaster99" target="_blank"><img src="github.png" height="60"></a>
+							<img src="linkedIn.png" height="60">
+						
+					</div>
+				</div>
+				<div id="moreinfo" class="networkcontain">
+					<form action="submit.php" method="POST">
+						<p><strong>Have any more queries?</strong></p>
+						<label for="name">Name:</label>
+						<input type="text" id="name" name="name" placeholder="<Name>" required="required" /><br />
+						<label for="email">E-Mail Id:</label>
+						<input type="text" id="email" name="email" placeholder="<E-Mail Id>" required="required" /><br />
+						Comments: <br />
+						<textarea rows="6" cols="40" name="comments" required="required"></textarea><br />
+						<button type="submit" id="extra">Submit</button>
+					</form>
+				</div>
+
+			</div>
+
+		</div>
+
+	</div>		
+</body>
+
+
+</html>

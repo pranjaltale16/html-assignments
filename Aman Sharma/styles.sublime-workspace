@@ -1,0 +1,412 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"Report_",
+				"Report_Found"
+			],
+			[
+				"Repo",
+				"Report_Found"
+			],
+			[
+				"Report",
+				"Report_Lost"
+			],
+			[
+				"contact",
+				"contact_no"
+			],
+			[
+				"is",
+				"is_valid"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"data",
+				"data-username"
+			],
+			[
+				"cl",
+				"click"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"da",
+				"data-user"
+			],
+			[
+				"men",
+				"mentor-preference-list"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"text",
+				"text-muted"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"tr",
+				"transition"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"min",
+				"min-width"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "sft",
+		"selected_items":
+		[
+			[
+				"sft",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sf",
+				"SFTP: Browse Server…"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"ins",
+				"Install Package Control"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/gen/Desktop/Project 1/ProfilePage.html",
+		"/Users/gen/Users/Clinck/Assignment/web-project/test-site/social.html",
+		"/Users/gen/Users/Clinck/Assignment/web-project/test-site/projects.html",
+		"/Users/gen/Users/Clinck/Assignment/web-project/test-site/pictures.html",
+		"/Users/gen/Users/Clinck/Assignment/web-project/test-site/index.html",
+		"/Users/gen/Users/Clinck/Assignment/web-project/test-site/Social",
+		"/Users/gen/Users/Clinck/Assignment/web-project/test-site/Projects",
+		"/Users/gen/Users/Clinck/Assignment/web-project/test-site/Pictures.html",
+		"/Users/gen/Users/Clinck/Assignment/Learning Web Development/Learning HTML/test.html",
+		"/Users/gen/Desktop/sj/1s.css",
+		"/Users/gen/Users/Clinck/Assignment/web-project/test-site/styles/styles.css",
+		"/Users/gen/Users/Assignments - Clinck/Anshsd.html",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1509087766/sarthak/home/sarthak/channeli/templates/lostfound/home.html",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1509094461/sarthak/home/sarthak/channeli/templates/lostfound/my_items.html",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1509082711/sarthak/home/sarthak/channeli/templates/lostfound/report_lost.html",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1509082693/sarthak/home/sarthak/channeli/apps/lostfound/models.py",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1509082687/sarthak/home/sarthak/channeli/apps/lostfound/forms.py",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1509093445/sarthak/home/sarthak/channeli/templates/lostfound/report_found.html",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1509093588/sarthak/home/sarthak/channeli/apps/lostfound/urls.py",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1509082654/sarthak/home/sarthak/channeli/apps/lostfound/views.py",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1509086073/sarthak/home/sarthak/channeli/templates/lostfound/all_lost_items.html",
+		"/Users/gen/Desktop/Mac Backup/Installed Items names/Adobe Photoshop CC 2017/Presets/Zoomify/ZoomifyImageViewer-min.js",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1505231234/shivam/home/shivamjindal/channeli/templates/samp/change_mentor_request.html",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1505231213/shivam/home/shivamjindal/channeli/static/js/samp/change_mentor_request.js",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1505252182/shivam/home/shivamjindal/channeli/static/css/samp/style.css",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1505250993/shivam/home/shivamjindal/channeli/static/css/samp/style.css",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1505231825/shivam/home/shivamjindal/channeli/templates/samp/base.html",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1505139647/shivam/home/shivamjindal/channeli/templates/samp/cor.html",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1505139629/shivam/home/shivamjindal/channeli/static/js/samp/cor.js",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1505141409/shivam/home/shivamjindal/channeli/templates/samp/base.html",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1505137989/shivam/home/shivamjindal/channeli/templates/samp/mentee_dashboard.html",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1505140026/shivam/home/shivamjindal/channeli/templates/samp/change_mentor_request.html",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1505139672/shivam/home/shivamjindal/channeli/static/css/samp/style.css",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1505139607/shivam/home/shivamjindal/channeli/static/js/samp/change_mentor_request.js",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1505138034/shivam/home/shivamjindal/channeli/apps/samp/urls.py",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1505138090/shivam/home/shivamjindal/channeli/apps/samp/views_mentee.py",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1505138076/shivam/home/shivamjindal/channeli/apps/samp/views.py",
+		"/Users/gen/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/virli",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1504812081/nikhil/home/nikhil/channeli/templates/samp/chat.html",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1504806889/nikhil/home/nikhil/channeli/templates/samp/mentee_dashboard.html",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1504807436/nikhil/home/nikhil/channeli/templates/samp/chat.html",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1504810439/nikhil/home/nikhil/channeli/static/css/samp/chat.css",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1504811072/nikhil/home/nikhil/channeli/static/css/samp/style.css",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1504807935/nikhil/home/nikhil/channeli/templates/samp/base.html",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1504807598/nikhil/home/nikhil/channeli/static/js/samp/chat.js",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1504806745/nikhil/home/nikhil/channeli/static/css/samp/chat.css",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1504806378/nikhil/home/nikhil/channeli/templates/samp/chat.html",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1504805392/nikhil/home/nikhil/channeli/templates/samp/mentee_dashboard.html",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1504805483/nikhil/home/nikhil/channeli/templates/samp/base.html",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1504804772/shivam/home/shivamjindal/channeli/static/css/samp/style.css",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1504802735/nikhil/home/nikhil/channeli/templates/samp/chat.html",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1504798914/nikhil/home/nikhil/channeli/templates/samp/index.html",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1504798660/shivam/home/shivamjindal/channeli/templates/samp/index.html",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1504798217/nikhil/home/nikhil/channeli/static/css/samp/style.css",
+		"/Users/gen/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/nikhil",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1504796454/nikhil/home/nikhil/channeli/templates/samp/base.html",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1504796290/shivam/home/nikhil/channeli/templates/samp/base.html",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1504639114/shivam/home/shivamjindal/channeli/templates/samp/mentor_dashboard.html",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1504630591/shivam/home/shivamjindal/channeli/static/js/samp/main.js",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1504632581/shivam/home/shivamjindal/channeli/static/css/samp/style.css",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1504636990/shivam/home/shivamjindal/channeli/static/css/samp/chat.css",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1504634389/shivam/home/shivamjindal/channeli/templates/samp/chat.html",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1504633372/shivam/home/shivamjindal/channeli/static/js/samp/chat.js",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1504633324/shivam/home/shivamjindal/channeli/templates/samp/mentee_dashboard.html",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1504630106/shivam/home/shivamjindal/channeli/templates/samp/register_mentor.html",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1504631742/shivam/home/shivamjindal/channeli/templates/samp/mentee_register.html",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1504632224/shivam/home/shivamjindal/channeli/templates/samp/index.html",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1504638333/shivam/home/shivamjindal/channeli/templates/samp/mentor_dashboard.html",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1504633218/shivam/home/shivamjindal/channeli/templates/samp/mentor_dashboard.html",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1504622508/shivam/home/shivamjindal/channeli/templates/samp/mentee_dashboard.html",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1504620587/shivam/home/shivamjindal/channeli/templates/samp/register_mentor.html",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1504621536/shivam/home/shivamjindal/channeli/apps/samp/views_mentor.py",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1504620987/shivam/home/shivamjindal/channeli/templates/samp/mentor_dashboard.html",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1504620954/shivam/home/shivamjindal/channeli/templates/samp/mentee_dashboard.html",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1504538458/shivam/home/shivamjindal/channeli/static/css/samp/chat.css",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1504538980/shivam/home/shivamjindal/channeli/static/css/samp/style.css",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1504547636/shivam/home/shivamjindal/channeli/static/js/samp/chat.js",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1504548569/shivam/home/shivamjindal/channeli/templates/samp/mentor_dashboard.html",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1504538440/shivam/home/shivamjindal/channeli/templates/samp/chat.html",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1504556513/shivam/home/shivamjindal/channeli/templates/samp/register_mentor.html",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1504548655/shivam/home/shivamjindal/channeli/templates/samp/base.html",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1504547998/shivam/home/shivamjindal/channeli/templates/samp/mail/base.html",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1504176027/shivam/home/shivamjindal/channeli/templates/samp/cor.html",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1504176047/shivam/home/shivamjindal/channeli/static/js/samp/cor.js",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1504178686/shivam/home/shivamjindal/channeli/static/css/samp/chat.css",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1504178677/shivam/home/shivamjindal/channeli/static/js/samp/chat.js",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1504179528/shivam/home/shivamjindal/channeli/templates/samp/mentee_dashboard.html",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1504175789/shivam/home/shivamjindal/channeli/templates/samp/chat_mentee.html",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1504176491/shivam/home/shivamjindal/channeli/templates/samp/mentor_dashboard.html",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1504177086/shivam/home/shivamjindal/channeli/templates/samp/mentee_dashboard.html",
+		"/Users/gen/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/shivam",
+		"/Users/gen/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/sarthak",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1490965935/karan/home/karan/channeli/static/css/manifesto/main.css",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1490965926/karan/home/karan/channeli/templates/manifesto/self_profile.html",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1490965888/karan/home/karan/channeli/templates/manifesto/index.html",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1490965908/karan/home/karan/channeli/templates/manifesto/profile.html",
+		"/Users/gen/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/karan",
+		"/Users/gen/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/radhika",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1490716223/radhika/home/radhika/channeli/static/css/manifesto/main.css",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1490716215/radhika/home/radhika/channeli/templates/manifesto/self_profile.html",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1490716205/radhika/home/radhika/channeli/templates/manifesto/profile.html",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1490716181/radhika/home/radhika/channeli/templates/manifesto/index.html",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1490717592/radhika/home/radhika/channeli/apps/manifesto/views.py",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1490717632/radhika/home/radhika/channeli/apps/manifesto/urls.py",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1490717817/radhika/home/radhika/channeli/apps/manifesto/models.py",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1490712075/radhika/home/radhika/channeli/static/css/manifesto/main.css",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1490712063/radhika/home/radhika/channeli/templates/manifesto/self_profile.html",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1490712053/radhika/home/radhika/channeli/templates/manifesto/profile.html",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1490712009/radhika/home/radhika/channeli/templates/manifesto/index.html",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1490005816/sarthak/home/sarthak/channeli/templates/lostfound/all_lost_items.html",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1490007470/sarthak/home/sarthak/channeli/static/css/lostfound/home.css",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1490005801/sarthak/home/sarthak/channeli/templates/lostfound/home.html",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1490005742/sarthak/home/sarthak/channeli/static/css/lostfound/general.css",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1490005810/sarthak/home/sarthak/channeli/templates/lostfound/all_found_items.html",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1490005780/sarthak/home/sarthak/channeli/templates/lostfound/base.html",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1490006549/sarthak/home/sarthak/channeli/static/css/lostfound/home.css",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1490006392/sarthak/home/sarthak/channeli/static/css/lostfound/home.css",
+		"/var/folders/cl/yg3l7_bn51749x03xr_nmg600000gp/T/sublime-sftp-browse-1490006312/sarthak/home/sarthak/channeli/static/css/lostfound/home.css",
+		"/Users/gen/Downloads/mentor.html",
+		"/Users/gen/Downloads/member.html"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "styles.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
